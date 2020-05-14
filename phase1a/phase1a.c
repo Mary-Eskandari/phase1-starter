@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <assert.h>
 #include <stdio.h>
+mary
 
 #define NO_PROCESS  0
 #define READY       1
